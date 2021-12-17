@@ -1,7 +1,9 @@
 # 30105-2006_Computer_Programing
 
-ตัวแปรชนิดตัวเลขจำนวนเต็ม
-byte
+## ตัวแปรชนิดตัวเลขจำนวนเต็ม
+
+### byte
+
 [Data Types]
 Description
 A byte stores an 8-bit unsigned number, from 0 to 255.
